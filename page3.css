@@ -1,0 +1,246 @@
+body{
+  background-color: black;
+}
+
+  p
+  {
+  color: white;
+  }
+
+  div.container
+   {
+    position: relative;
+    left :60px;
+    top:40px;
+
+}
+div.topleft
+{
+  position:absolute;
+  top:100px;
+  left:16px;
+  font-size: 18px;
+}
+
+figure{
+  display: inline-block;
+
+
+}
+figcaption{
+  text-align: center;
+}
+div.solid
+{
+  left: 100px;
+  outline-style:solid;
+  outline-color:black;
+  width:1350px;
+  height:145px;
+
+}
+
+p3.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p3.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p3.popup:hover
+{
+  visibility:visible
+}
+
+p3.popup:hover span
+{
+  left:100px;
+}
+* html p3.popup span
+{
+  position:absolute;
+}
+
+
+p4.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p4.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p4.popup:hover
+{
+  visibility:visible
+}
+
+p4.popup:hover span
+{
+  left:300px;
+}
+* html p4.popup span
+{
+  position:absolute;
+}
+
+p5.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p5.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p5.popup:hover
+{
+  visibility:visible
+}
+
+p5.popup:hover span
+{
+  left:500px;
+}
+* html p5.popup span
+{
+  position:absolute;
+}
+
+p6.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p6.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p6.popup:hover
+{
+  visibility:visible
+}
+
+p6.popup:hover span
+{
+  left:700px;
+}
+* html p6.popup span
+{
+  position:absolute;
+}
+
+p7.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p7.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p7.popup:hover
+{
+  visibility:visible
+}
+
+p7.popup:hover span
+{
+  left:1000px;
+}
+* html p7.popup span
+{
+  position:absolute;
+}
+
+p8.popup
+{
+  zoom:1.0;
+	position:relative;
+	text-decoration:none;
+}
+
+p8.popup span {
+	position:fixed;
+	top:450px;
+	left:500px;
+	width:250px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:10px;
+	left:-999em;
+	z-index:990;
+
+}
+
+p8.popup:hover
+{
+  visibility:visible
+}
+
+p8.popup:hover span
+{
+  left:1200px;
+}
+* html p8.popup span
+{
+  position:absolute;
+}
